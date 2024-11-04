@@ -14,9 +14,10 @@ The dataset used in this project is the Bank Marketing dataset, commonly used fo
 
 ## Environment Setup
 To run the notebook, you need:
-Python 3.x
-Apache Spark (PySpark) version compatible with your Python version
-Jupyter Notebook or JupyterLab
+
+* Python 3.x
+* Apache Spark (PySpark) version compatible with your Python version
+* Jupyter Notebook or JupyterLab
 
 ## Results
 The notebook provides a comparison of the Decision Tree and Random Forest models on classification and regression tasks. Performance metrics are calculated, and the results are summarized in terms of accuracy and error metrics.
